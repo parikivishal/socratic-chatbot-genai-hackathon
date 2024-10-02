@@ -1,9 +1,6 @@
-# socratic-chatbot-genai-hackathon
- The Socratic Chatbot Assistant was created for the Gen AI Exchange Hackathon, powered by Google Gen AI. This chatbot helps users explore and understand data structures and algorithms by engaging them in a Socratic-style conversation, encouraging deeper learning through thoughtful questioning. Using technologies like Django, HTML, CSS, and JavaScript, the chatbot leverages Google Gen AI to provide smart, context-aware responses. It's designed to be a valuable learning tool for both students and educators in computer science.
-
 # Socratic Chatbot Assistant
 
-The Socratic Chatbot Assistant is designed to help users explore and understand data structures and algorithms through engaging Socratic-style conversations. This project was developed for the Gen AI Exchange Hackathon powered by Google Gen AI.
+ The Socratic Chatbot Assistant was created for the Gen AI Exchange Hackathon, powered by Google Gen AI. This chatbot helps users explore and understand data structures and algorithms by engaging them in a Socratic-style conversation, encouraging deeper learning through thoughtful questioning. Using technologies like Django, HTML, CSS, and JavaScript, the chatbot leverages Google Gen AI to provide smart, context-aware responses. It's designed to be a valuable learning tool for both students and educators in computer science.
 
 ## Installation
 
